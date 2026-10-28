@@ -2,7 +2,7 @@ spring:
   application:
     name: configdemo-git
   profiles:
-    active: dev
+    active: prod
 build:
   id: 101
   version: 1.2.3
