@@ -1,5 +1,5 @@
 build:
   id: 99999
   version: 1.2.3
-  name: "Dev-Buildss-git"
+  name: "prod-Buildss-git"
   type: "Devealopment git Build from git hub prod"
